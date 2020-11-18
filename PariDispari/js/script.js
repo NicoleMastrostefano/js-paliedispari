@@ -1,6 +1,8 @@
 var n;
 var pari = (n % 2==0);
-pariDispari = (prompt("Scegli un valore tra pari o dispari"));
+
+// L’utente sceglie pari o dispari e inserisce un numero da 1 a 5
+pariDispari = (prompt("Scegli un valore tra pari e dispari"));
 n = parseInt(prompt("Inserici un numero tra 1 e 5"));
 console.log(n);
 
