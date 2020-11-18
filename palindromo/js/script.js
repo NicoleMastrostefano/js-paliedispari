@@ -17,18 +17,3 @@ messaggio.innerHTML=("La parola" + "  " +  parola + "  "+ "non e' palindroma ");
 }
 
 console.log (palindromo());
-
-
-
-
-
-
-
-
-
-
-
-
-
-// oppure
-// if(parola.split("").reverse().join("") === parola)
